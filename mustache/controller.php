@@ -13,7 +13,7 @@ class MustachePackage extends Package {
 
 	protected $pkgHandle = 'mustache';
 	protected $appVersionRequired = '5.4.1';
-	protected $pkgVersion = '0.9.0';
+	protected $pkgVersion = '0.9.1';
 	
 	public function getPackageDescription() {
 		return t("Provides access to the Mustache templating engine for PHP and JavaScript throughout your site.");
