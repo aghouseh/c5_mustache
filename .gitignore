@@ -1,2 +1,6 @@
 config/site.php
 files/cache/*
+
+mustache/.DS_Store
+
+mustache/libraries/.DS_Store
